@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\BaseTechnicalTest_JAKSolutions.props" />
+</Project>
