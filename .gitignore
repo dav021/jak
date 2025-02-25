@@ -1,2 +1,88 @@
-# Ignorer le dossier .vs généré par Visual Studio
+# Build Folders
+bin/
+obj/
+out/
+
+# User-specific files
+*.rsuser
+*.user
+*.userosscache
+*.suo
+*.userprefs
+*.launchsettings.json
+
+# Visual Studio files
+.vscode/
 .vs/
+
+# Logs
+*.log
+
+# Dependency Directories
+node_modules/
+packages/
+
+# Configuration
+appsettings.Development.json
+appsettings.Local.json
+secrets.json
+
+# Database
+*.db
+*.sqlite
+*.mdf
+*.ldf
+
+# IDE/Build System
+*.ide
+.idea/
+*.sln.iml
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Coverage
+coverage/
+*.coverage
+*.coveragejson
+
+# Cache
+/.temp
+/.vs
+/.nuget
+/.tools
+/.sass-cache
+/.cache
+
+# Generated Files
+*.generated.cs
+*.swagger
+*.bak
+
+# Environment variables
+.env
+.env.*.local
+
+# Rider
+.idea/
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# JetBrains Rider and Resharper
+**/.idea/
+**/.idea_modules/
+**/*.sln.iml
+**/*.suo
+**/*.user
+**/*.userosscache
+**/*.sln.docstates
+
+# Docker
+docker-compose.override.yml
