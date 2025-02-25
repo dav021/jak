@@ -40,14 +40,26 @@ namespace BaseTechnicalTest_JAKSolutions.Services
             };
         }
 
-        public void Add(ProductDTO productDTO)
+        public ProductDTO? Add(ProductDTO productDTO)
         {
             var product = new Product
             {
                 Name = productDTO.Name,
                 Price = productDTO.Price
             };
-            _productRepository.Add(product);
+            var productCreated = _productRepository.Add(product);
+
+            if (productCreated is null)
+            {
+                throw new Exception("Product not created");
+            }
+
+            return new ProductDTO
+            {
+                Id = productCreated.Id,
+                Name = productCreated.Name,
+                Price = productCreated.Price
+            };
         }
 
         public void Update(int id, ProductDTO productDTO)

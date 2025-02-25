@@ -6,7 +6,7 @@ namespace BaseTechnicalTest_JAKSolutions.Repositories.Interfaces
     {
         IEnumerable<Product> GetAll();
         Product? GetById(int id);
-        void Add(Product product);
+        Product? Add(Product product);
         void Update(Product product);
         void Delete(int id);
     }

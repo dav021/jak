@@ -6,7 +6,7 @@ namespace BaseTechnicalTest_JAKSolutions.Services.Interfaces
     {
         IEnumerable<ProductDTO> GetAll();
         ProductDTO? GetById(int id);
-        void Add(ProductDTO productDto);
+        ProductDTO? Add(ProductDTO productDto);
         void Update(int id, ProductDTO productDto);
         void Delete(int id);
     }

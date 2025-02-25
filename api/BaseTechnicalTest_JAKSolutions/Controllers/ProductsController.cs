@@ -36,8 +36,12 @@ namespace BaseTechnicalTest_JAKSolutions.Controllers
         [HttpPost]
         public IActionResult Add([FromBody] ProductDTO productDTO)
         {
-            _productService.Add(productDTO);
-            return Ok();
+            var product = _productService.Add(productDTO);
+            if (product == null)
+            {
+                return NotFound();
+            }
+            return Ok(product);
         }
 
         [HttpPut("{id}")]

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BaseTechnicalTest_JAKSolutions")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+faa7387d896dba625f2e50cdebb842021dd1d61d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+50e60a38e1eb42a8625a2989e50b36cc854f7c9a")]
 [assembly: System.Reflection.AssemblyProductAttribute("BaseTechnicalTest_JAKSolutions")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BaseTechnicalTest_JAKSolutions")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

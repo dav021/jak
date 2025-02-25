@@ -21,10 +21,12 @@ namespace BaseTechnicalTest_JAKSolutions.Repositories
             return _products.FirstOrDefault(p => p.Id == id);
         }
 
-        public void Add(Product product)
+        public Product? Add(Product product)
         {
             product.Id = _products.Max(p => p.Id) + 1;
             _products.Add(product);
+
+            return product;
         }
 
         public void Update(Product product)

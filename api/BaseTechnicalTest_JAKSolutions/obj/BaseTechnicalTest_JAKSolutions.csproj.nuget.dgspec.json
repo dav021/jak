@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\j0n\\source\\repos\\BaseTechnicalTest_JAKSolutions\\api\\BaseTechnicalTest_JAKSolutions\\BaseTechnicalTest_JAKSolutions.csproj": {}
+    "C:\\Users\\j0n\\source\\repos\\jakSolutionsGithub\\baseTechnicalTest\\api\\BaseTechnicalTest_JAKSolutions\\BaseTechnicalTest_JAKSolutions.csproj": {}
   },
   "projects": {
-    "C:\\Users\\j0n\\source\\repos\\BaseTechnicalTest_JAKSolutions\\api\\BaseTechnicalTest_JAKSolutions\\BaseTechnicalTest_JAKSolutions.csproj": {
+    "C:\\Users\\j0n\\source\\repos\\jakSolutionsGithub\\baseTechnicalTest\\api\\BaseTechnicalTest_JAKSolutions\\BaseTechnicalTest_JAKSolutions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\j0n\\source\\repos\\BaseTechnicalTest_JAKSolutions\\api\\BaseTechnicalTest_JAKSolutions\\BaseTechnicalTest_JAKSolutions.csproj",
+        "projectUniqueName": "C:\\Users\\j0n\\source\\repos\\jakSolutionsGithub\\baseTechnicalTest\\api\\BaseTechnicalTest_JAKSolutions\\BaseTechnicalTest_JAKSolutions.csproj",
         "projectName": "BaseTechnicalTest_JAKSolutions",
-        "projectPath": "C:\\Users\\j0n\\source\\repos\\BaseTechnicalTest_JAKSolutions\\api\\BaseTechnicalTest_JAKSolutions\\BaseTechnicalTest_JAKSolutions.csproj",
+        "projectPath": "C:\\Users\\j0n\\source\\repos\\jakSolutionsGithub\\baseTechnicalTest\\api\\BaseTechnicalTest_JAKSolutions\\BaseTechnicalTest_JAKSolutions.csproj",
         "packagesPath": "C:\\Users\\j0n\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\j0n\\source\\repos\\BaseTechnicalTest_JAKSolutions\\api\\BaseTechnicalTest_JAKSolutions\\obj\\",
+        "outputPath": "C:\\Users\\j0n\\source\\repos\\jakSolutionsGithub\\baseTechnicalTest\\api\\BaseTechnicalTest_JAKSolutions\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

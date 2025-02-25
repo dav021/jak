@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ilKrF8U+nFU=",
+  "dgSpecHash": "lASuOw0FGIs=",
   "success": true,
-  "projectFilePath": "C:\\Users\\j0n\\source\\repos\\BaseTechnicalTest_JAKSolutions\\api\\BaseTechnicalTest_JAKSolutions\\BaseTechnicalTest_JAKSolutions.csproj",
+  "projectFilePath": "C:\\Users\\j0n\\source\\repos\\jakSolutionsGithub\\baseTechnicalTest\\api\\BaseTechnicalTest_JAKSolutions\\BaseTechnicalTest_JAKSolutions.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\j0n\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\j0n\\.nuget\\packages\\microsoft.openapi\\1.6.14\\microsoft.openapi.1.6.14.nupkg.sha512",
